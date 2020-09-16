@@ -8,7 +8,7 @@
 # commit the changes and push to GitHub. The other
 # partner should run git pull to retrieve the changes.
 def duck_noise
-  puts "Bark"
+  puts "quack"
 end
 
 # Task 2: Same as task one, but switch roles
