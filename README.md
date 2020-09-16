@@ -10,7 +10,7 @@ To demonstrate `git pull`, we've provided a repository to work with. Follow thes
 1. **One** partner should fork the repository linked in the calendar
 1. Whoever forked the repo should add the other partner as a collaborator.
 1. **Both** partners should clone the forked repo.
-1. **Both** partners should open `pull_practice.rb` in VS Code.
+1. **Both** partners should open `pull_practice.rb` in VS Code or Rubymine.
 
 ## Pulling Changes From GitHub
 
